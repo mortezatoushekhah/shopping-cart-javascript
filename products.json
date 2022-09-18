@@ -3,39 +3,39 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "محصول اول",
-        "price": 89,
+        "title": "Labtop Asus",
+        "price": 890,
         "image": { "fields": { "file": { "url": "./images/product-1.jpg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "محصول دوم",
-        "price": 29,
+        "title": "MacBook",
+        "price": 1440,
         "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "محصول سوم",
-        "price": 79,
+        "title": "Samsung A53",
+        "price": 300,
         "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "محصول چهارم",
-        "price": 99,
+        "title": "Redmi Note 11",
+        "price": 230,
         "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
       }
     },
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "محصول پنجم",
+        "title": "Inpods",
         "price": 49,
         "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
       }
@@ -43,24 +43,24 @@
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "محصول ششم",
-        "price": 59,
+        "title": "Playstation 5",
+        "price": 750,
         "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
       }
     },
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "محصول هفتم",
-        "price": 99,
+        "title": "Canon EOS",
+        "price": 350,
         "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "محصول هشتم",
-        "price": 49,
+        "title": "Gigaset Phone",
+        "price": 300,
         "image": { "fields": { "file": { "url": "./images/product-8.jpg" } } }
       }
     }
