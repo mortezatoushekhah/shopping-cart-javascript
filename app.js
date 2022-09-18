@@ -79,7 +79,7 @@ class View {
       totalItems = totalItems + item.amount
     })
 
-    cartTotal.innerText = totalPrice
+    cartTotal.innerText = totalPrice + '$'
     cartItems.innerText = totalItems
     console.log(cartTotal, cartItems);
   }
@@ -91,7 +91,7 @@ class View {
       <img src=${item.image} alt=${item.title}>
       <div>
         <h4>${item.title}</h4>
-        <h5>${item.price}</h5>
+        <h5>${item.price} $</h5>
         <span class="remove-item" data-id=${item.id}>Delete</span>
       </div>
       <div>
